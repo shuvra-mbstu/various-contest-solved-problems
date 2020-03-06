@@ -1,0 +1,10 @@
+Case 1:
+Pushed in left: 2
+Pushed in right: 1
+Case 2:
+The queue is empty
+The queue is empty
+Pushed in left: 3
+Case 3:
+The queue is empty
+Pushed in left: 5
